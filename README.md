@@ -7,7 +7,7 @@ Currently open to **data engineering**, **ML engineering**, and **backend/cloud*
 
 ---
 
-## What I Work With
+## What I Have Worked With
 
 **ML & Data** — Python, TensorFlow/Keras, OpenCV, SPM, pandas, scikit-learn  
 **Data Engineering** — Apache Kafka, RabbitMQ, PostgreSQL, pipeline design  
