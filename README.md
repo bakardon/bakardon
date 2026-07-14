@@ -16,7 +16,7 @@ Currently open to **data engineering**, **ML engineering**, and **backend/cloud*
 
 ---
 
-## Selected Projects
+## Some Projects 4 U
 
 | Project | What it does | Stack |
 |---|---|---|
